@@ -1,2 +1,6 @@
 # Two-Papers-on-Artificial-General-Intelligence
-Two papers exploring structural reasoning and autonomous theorem discovery toward AGI.
+
+This repository contains two theoretical papers:
+
+1. Reasoning as Structure-Preserving Transformation: A Structuralist Framework for AGI
+2. AGI Architecture Based on Self-Expanding Temporal Hypergraphs for Critical Structure Encoding
